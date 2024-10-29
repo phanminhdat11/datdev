@@ -35,6 +35,7 @@ html, body {
     left: 0;
     pointer-events: none;
     z-index: 1000;
+  
 }
 
 /* Vòng tròn nhỏ (inner circle) */
